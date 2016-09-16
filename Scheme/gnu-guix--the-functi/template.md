@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: GNU Guix: the functional GNU/Linux distro that's a Scheme library
 ---
 
-Talk at Scheme at 1420-1500 PM
+This is the template for you to liveblog about the talk,
+which is at Scheme on 1420-1500 PM.  Just replace the content here
+with your edits, and then submit it online.

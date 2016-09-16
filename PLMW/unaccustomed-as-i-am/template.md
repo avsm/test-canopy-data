@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Unaccustomed as I am to public speaking
 ---
 
-Talk at PLMW at 1730-1800 PM
+This is the template for you to liveblog about the talk,
+which is at PLMW on 1730-1800 PM.  Just replace the content here
+with your edits, and then submit it online.

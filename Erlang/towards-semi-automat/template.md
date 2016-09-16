@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Towards semi-automatic data-type translation for parallelism in Erlang
 ---
 
-Talk at Erlang at 1545-1610 PM
+This is the template for you to liveblog about the talk,
+which is at Erlang on 1545-1610 PM.  Just replace the content here
+with your edits, and then submit it online.

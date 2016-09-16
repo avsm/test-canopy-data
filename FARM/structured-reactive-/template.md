@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Structured reactive programming with polymorphic temporal tiles
 ---
 
-Talk at FARM at 0945-1015 AM
+This is the template for you to liveblog about the talk,
+which is at FARM on 0945-1015 AM.  Just replace the content here
+with your edits, and then submit it online.

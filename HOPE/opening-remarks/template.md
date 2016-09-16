@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Opening Remarks
 ---
 
-Talk at HOPE at 0910-0915 AM
+This is the template for you to liveblog about the talk,
+which is at HOPE on 0910-0915 AM.  Just replace the content here
+with your edits, and then submit it online.

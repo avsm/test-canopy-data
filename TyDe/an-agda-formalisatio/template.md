@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: An Agda formalisation of the transitive closure of block matrices
 ---
 
-Talk at TyDe at 1720-1740 PM
+This is the template for you to liveblog about the talk,
+which is at TyDe on 1720-1740 PM.  Just replace the content here
+with your edits, and then submit it online.

@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Lightning Talks
 ---
 
-Talk at HIW at 1705-1800 PM
+This is the template for you to liveblog about the talk,
+which is at HIW on 1705-1800 PM.  Just replace the content here
+with your edits, and then submit it online.

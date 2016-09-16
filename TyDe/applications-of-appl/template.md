@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Applications of applicative proof search
 ---
 
-Talk at TyDe at 1400-1430 PM
+This is the template for you to liveblog about the talk,
+which is at TyDe on 1400-1430 PM.  Just replace the content here
+with your edits, and then submit it online.

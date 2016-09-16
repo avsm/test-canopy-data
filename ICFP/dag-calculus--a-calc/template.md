@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Dag-Calculus: A calculus for parallel computation
 ---
 
-Talk at ICFP at 1110-1135 AM
+This is the template for you to liveblog about the talk,
+which is at ICFP on 1110-1135 AM.  Just replace the content here
+with your edits, and then submit it online.

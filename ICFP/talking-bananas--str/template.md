@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Talking bananas: Structural recursion for session types
 ---
 
-Talk at ICFP at 1505-1530 PM
+This is the template for you to liveblog about the talk,
+which is at ICFP on 1505-1530 PM.  Just replace the content here
+with your edits, and then submit it online.

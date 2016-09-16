@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Basic mechanics of operational semantics
 ---
 
-Talk at PLMW at 1045-1130 AM
+This is the template for you to liveblog about the talk,
+which is at PLMW on 1045-1130 AM.  Just replace the content here
+with your edits, and then submit it online.

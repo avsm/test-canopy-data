@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: Hope is a monad
 ---
 
-Talk at CUFP at 1705-1755 PM
+This is the template for you to liveblog about the talk,
+which is at CUFP on 1705-1755 PM.  Just replace the content here
+with your edits, and then submit it online.

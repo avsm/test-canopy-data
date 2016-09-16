@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: String diagrams for free monads (Functional Pearl)
 ---
 
-Talk at ICFP at 1715-1740 PM
+This is the template for you to liveblog about the talk,
+which is at ICFP on 1715-1740 PM.  Just replace the content here
+with your edits, and then submit it online.

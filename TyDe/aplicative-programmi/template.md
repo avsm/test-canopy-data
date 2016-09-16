@@ -4,4 +4,6 @@ author: whoami (Anonymous)
 abstract: APLicative programming with Naperian Functors
 ---
 
-Talk at TyDe at 0935-0955 AM
+This is the template for you to liveblog about the talk,
+which is at TyDe on 0935-0955 AM.  Just replace the content here
+with your edits, and then submit it online.
