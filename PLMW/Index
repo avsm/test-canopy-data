@@ -1,0 +1,16 @@
+---
+title: PLMW
+author: Gemma Gordon, Anil Madhavapeddy
+abstract: Event is PLMW
+---
+
+* 0915-0945: [Welcome to ICFP](welcome-to-icfp)
+* 0945-1015: [Rust: PL research in industry](rust--pl-research-in)
+* 1045-1130: [Basic mechanics of operational semantics](basic-mechanics-of-o)
+* 1130-1215: [Some types of types](some-types-of-types)
+* 1400-1430: [Analyzing JavaScript web applications in the wild (mostly) statically](analyzing-javascript)
+* 1430-1500: [Introduction to dependent types](introduction-to-depe)
+* 1530-1600: [Program transformations for developing efficient and correct programs with ease](program-transformati)
+* 1600-1630: [How to write papers so people can read them](how-to-write-papers-)
+* 1700-1730: [Principle and practice of OCaml type debugger](principle-and-practi)
+* 1730-1800: [Unaccustomed as I am to public speaking](unaccustomed-as-i-am)

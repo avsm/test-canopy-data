@@ -1,0 +1,16 @@
+---
+title: HOPE
+author: Gemma Gordon, Anil Madhavapeddy
+abstract: Event is HOPE
+---
+
+* 0910-0915: [Opening Remarks](opening-remarks)
+* 0915-1015: [Effective programming: bringing algebraic effects and handlers to OCaml](effective-programmin)
+* 1045-1115: [Effects as capabilities](effects-as-capabilit)
+* 1115-1145: [A logical account of a type-and-effect system](a-logical-account-of)
+* 1145-1215: [Simple dependent polymorphic I/O effects](simple-dependent-pol)
+* 1400-1430: [Concurrent data structures linked in time](concurrent-data-stru)
+* 1430-1500: [Growing a proof assistant](growing-a-proof-assi)
+* 1530-1600: [Type directed compilation of row-typed algebraic effects](type-directed-compil)
+* 1600-1630: [Administrative normal form, continued: Sharing control in direct style](administrative-norma)
+* 1700-1730: [Functional models of full ground, and general reference calls](functional-models-of)
