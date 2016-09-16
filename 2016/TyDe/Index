@@ -4,4 +4,16 @@ author: Gemma Gordon, Anil Madhavapeddy
 abstract: Event is TyDe
 ---
 
-List all the things here
+* 0915-0935: [Opening](opening)
+* 0935-0955: [APLicative programming with Naperian Functors](aplicative-programmi)
+* 0955-1015: [Choose your own derivative](choose-your-own-deri)
+* 1045-1115: [Generic diff3 for algebraic datatypes](generic-diff3-for-al)
+* 1115-1135: [Programming assistance for type-directed programming](programming-assistan)
+* 1135-1155: [Generic partially-static data](generic-partially-st)
+* 1155-1215: [Bidirectional transformations are proof-relevant bisimulations](bidirectional-transf)
+* 1400-1430: [Applications of applicative proof search](applications-of-appl)
+* 1430-1500: [Liberating effects with rows and handlers](liberating-effects-w)
+* 1530-1600: [Programming with monadic CSP-style processes in dependent type theory](programming-with-mon)
+* 1600-1630: [Generic lookup and update for infinitary inductive-recursive types](generic-lookup-and-u)
+* 1700-1720: [Parameterized extensible effects and session types](parameterized-extens)
+* 1720-1740: [An Agda formalisation of the transitive closure of block matrices](an-agda-formalisatio)
