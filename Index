@@ -1,8 +1,27 @@
 ---
-author: Anil
-title: hello
-abstract: test index
+title: ICFP 2016 events
+author: Gemma Gordon, Anil Madhavapeddy
+abstract: List of all the events
 ---
 
-dfd
-
+* [HOPE](HOPE)
+* [CUFP](CUFP)
+* [Erlang](Erlang)
+* [FARM](FARM)
+* [FHPC](FHPC)
+* [Haskell](Haskell)
+* [HIW](HIW)
+* [ICFP](ICFP)
+* [ML](ML)
+* [OCaml](OCaml)
+* [PLMW](PLMW)
+* [Scheme](Scheme)
+* [TyDe](TyDe)
+* [Tutorial T1](Tutorial T1)
+* [Tutorial T2](Tutorial T2)
+* [Tutorial T3](Tutorial T3)
+* [Tutorial T4](Tutorial T4)
+* [Tutorial T5](Tutorial T5)
+* [Tutorial T6](Tutorial T6)
+* [Tutorial T7](Tutorial T7)
+* [Tutorial T8](Tutorial T8)
